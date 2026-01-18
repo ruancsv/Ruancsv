@@ -10,9 +10,11 @@ Me chamo Ruan Carmo Silva, tenho 21 anos e nasci no Espirito Santo. Concluí o e
 👨‍🎓 FORMAÇÃO ACADÊMICA:
 
 Ensino Fundamental || - Emefi Professora Jacyra Vieira Baracho- São José dos Campos,Sp
-Ensino Medio Completo -Escola Estadual Deputado Benedito
-Matarazzo- São José dos Campos,Sp
+
+Ensino Medio Completo -Escola Estadual Deputado Benedito Matarazzo- São José dos Campos,Sp
+
 Cursos Concluído Informática e Administração, com 7 Módulos, Fatore - São José dos Campos,Sp
+
 Cursando Análise e Desenvolvimento de Sistemas- UAM. 3/5
 
  📈 CURSOS COMPLEMENTARES:
