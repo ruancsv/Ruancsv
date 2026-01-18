@@ -24,8 +24,10 @@ Pacote Office | Pacote Adobe | RH | Contabilidade
 
 💼 EXPERIÊNCIA PROFISSIONAL:
 
-Estagiário em informática, Penta Computadores e CedroTI OUT2023/MAR-2024
+Estagiário em informática na Penta Computadores e CedroTI OUT2023/MAR-2024
+
 Atividades: 
+
 Manutenção em Desktop e notebook, configuração de impressoras,
 montagem de Desktops, atendimento remoto, atendimento ao cliente,
 configuração de desktop e notebook, configuração de pacote office
