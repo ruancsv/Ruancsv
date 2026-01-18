@@ -2,6 +2,7 @@
 # 👩🏻‍💻 Ruan Carmo
 
 **`Futuro Desenvolvedor`**
+
 Sobre Mim 🚀 
 Me chamo Ruan Carmo Silva, tenho 21 anos e nasci no Espirito Santo. Concluí o ensino médio na Escola Estadual Deputado Benedito Matarazzo, fiz um curso de informática na Escola Fatore. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM . Sou fascinado por tecnologia.
 
