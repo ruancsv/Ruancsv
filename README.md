@@ -1,5 +1,5 @@
 ## Olá Mundo 👋
-# 👩🏻‍💻 Ruan Carmo
+# 👨‍💻 Ruan Carmo
 
 **`Futuro Desenvolvedor`**
 
