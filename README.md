@@ -7,6 +7,7 @@
 
 Me chamo Ruan, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UAM. Sou profissional de TI com experiência prática em suporte técnico, infraestrutura e gestão de ativos tecnológicos, atualmente atuando com conferência técnica, testes funcionais e validação de equipamentos de TI e Telecom.
 
+ 
  👨‍🎓 FORMAÇÃO ACADÊMICA:
 
 Ensino Medio Completo -Escola Estadual Deputado Benedito Matarazzo- São José dos Campos,Sp
@@ -15,12 +16,15 @@ Cursos Concluído Informática e Administração, com 7 Módulos, Fatore - São 
 
 Cursando Análise e Desenvolvimento de Sistemas- UAM. 3/5
 
+
  📈 CURSOS COMPLEMENTARES:
  
 Informática | Administração | Windows
 Pacote Office | Pacote Adobe | RH | Contabilidade
 
+
  💼 Experiência Profissional
+
 🏢 Preparador de Materiais | TECHFIVE
 
 📅 Fev/2025 – Atual
