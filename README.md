@@ -3,13 +3,11 @@
 
 **`Futuro Desenvolvedor`**
 
-Sobre Mim 🚀 
+ Sobre Mim 🚀 
 
-Eu me chamo Ruan Carmo Silva, tenho 21 anos e nasci no Espirito Santo. Concluí o ensino médio na Escola Estadual Deputado Benedito Matarazzo, fiz um curso de informática na Escola Fatore. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM . Sou fascinado por tecnologia.
+Me chamo Ruan, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UAM. Sou profissional de TI com experiência prática em suporte técnico, infraestrutura e gestão de ativos tecnológicos, atualmente atuando com conferência técnica, testes funcionais e validação de equipamentos de TI e Telecom.
 
-👨‍🎓 FORMAÇÃO ACADÊMICA:
-
-Ensino Fundamental || - Emefi Professora Jacyra Vieira Baracho- São José dos Campos,Sp
+ 👨‍🎓 FORMAÇÃO ACADÊMICA:
 
 Ensino Medio Completo -Escola Estadual Deputado Benedito Matarazzo- São José dos Campos,Sp
 
@@ -22,15 +20,21 @@ Cursando Análise e Desenvolvimento de Sistemas- UAM. 3/5
 Informática | Administração | Windows
 Pacote Office | Pacote Adobe | RH | Contabilidade
 
-💼 EXPERIÊNCIA PROFISSIONAL:
+ 💼 Experiência Profissional
+🏢 Preparador de Materiais | TECHFIVE
 
-Estagiário em informática na Penta Computadores e CedroTI OUT2023/MAR-2024
+📅 Fev/2025 – Atual
 
-Atividades: 
+Atuação com gestão, validação e controle de ativos de TI e Telecom, realizando inventário, triagem técnica e testes funcionais em equipamentos.
 
-Manutenção em Desktop e notebook, configuração de impressoras,
-montagem de Desktops, atendimento remoto, atendimento ao cliente,
-configuração de desktop e notebook, configuração de pacote office
+Desenvolvi forte visão analítica, organização de dados com Excel e controle operacional, contribuindo para eficiência, rastreabilidade e melhoria contínua dos processos.
 
+💻 Estagiário de TI | Cedro TI
+
+📅 Out/2023 – Mar/2024
+
+Atuei com suporte técnico remoto e presencial, manutenção e configuração de desktops e notebooks, além de diagnóstico de hardware e software.
+
+Experiência que fortaleceu minha base técnica e capacidade de resolver problemas em ambientes corporativos.
 
 
