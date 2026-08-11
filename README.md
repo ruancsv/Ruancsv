@@ -1,6 +1,6 @@
 from pathlib import Path
 
-readme = r'''# Olá, eu sou o Ruan 👋
+readme = """# Olá, eu sou o Ruan 👋
 
 ### 👨‍💻 Software Development Intern | Backend | Kotlin • Java • Spring Boot • SQL
 
@@ -139,8 +139,8 @@ Atualmente desenvolvendo minha experiência profissional na área de software e 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-carmo-silva/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruancsv)
-'''
+"""
 
-path = Path('/mnt/data/README_perfil_github_ruancsv.md')
-path.write_text(readme, encoding='utf-8')
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
 print(path)
