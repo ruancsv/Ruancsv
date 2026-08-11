@@ -1,0 +1,23 @@
+name: Atualizar gráficos do perfil
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar cards do perfil
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ruancsv
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
