@@ -1,44 +1,92 @@
-## Olá Mundo 👋
-# 👨‍💻 Ruan Carmo
+# Olá, eu sou o Ruan 👋
 
-**`Futuro Desenvolvedor`**
+### 👨‍💻 Software Development Intern | Backend | Kotlin • Java • Spring Boot • SQL
 
- Sobre Mim 🚀 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente atuo como **Estagiário de Desenvolvimento de Software na Kaffa Tech**.
 
-Me chamo Ruan, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UAM. Sou profissional de TI com experiência prática em suporte técnico, infraestrutura e gestão de ativos tecnológicos, atualmente atuando com conferência técnica, testes funcionais e validação de equipamentos de TI e Telecom.
+Meu foco está no desenvolvimento backend, construção de APIs REST e aprofundamento em tecnologias como **Kotlin, Java, Spring Boot, SQL e PostgreSQL**.
 
- 
- 👨‍🎓 FORMAÇÃO ACADÊMICA:
+Antes de entrar diretamente na área de desenvolvimento, tive experiência com suporte técnico, infraestrutura e processos relacionados a ativos de TI. Essa trajetória contribuiu para desenvolver uma visão prática de tecnologia, resolução de problemas e ambientes corporativos.
 
-Ensino Medio Completo -Escola Estadual Deputado Benedito Matarazzo- São José dos Campos,Sp
+Atualmente busco evoluir principalmente em **backend, arquitetura de APIs, segurança, bancos de dados e boas práticas de desenvolvimento de software**.
 
-Cursos Concluído Informática e Administração, com 7 Módulos, Fatore - São José dos Campos,Sp
+---
 
-Cursando Análise e Desenvolvimento de Sistemas- UAM. 3/5
+## 🚀 Tecnologias e conhecimentos
 
+### Backend
 
- 📈 CURSOS COMPLEMENTARES:
- 
-Informática | Administração | Windows
-Pacote Office | Pacote Adobe | RH | Contabilidade
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+### Banco de dados
 
- 💼 Experiência Profissional
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🏢 Preparador de Materiais | TECHFIVE
+### Ferramentas
 
-📅 Fev/2025 – Atual
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Atuação com gestão, validação e controle de ativos de TI e Telecom, realizando inventário, triagem técnica e testes funcionais em equipamentos.
+---
 
-Desenvolvi forte visão analítica, organização de dados com Excel e controle operacional, contribuindo para eficiência, rastreabilidade e melhoria contínua dos processos.
+## 📌 Projetos em destaque
 
-💻 Estagiário de TI | Cedro TI
+### 🔐 Auth API Kotlin
 
-📅 Out/2023 – Mar/2024
+API REST de autenticação desenvolvida com **Kotlin, Spring Boot, Spring Security e PostgreSQL**.
 
-Atuei com suporte técnico remoto e presencial, manutenção e configuração de desktops e notebooks, além de diagnóstico de hardware e software.
+Principais recursos implementados:
 
-Experiência que fortaleceu minha base técnica e capacidade de resolver problemas em ambientes corporativos.
+- Cadastro de usuários
+- Login com e-mail e senha
+- BCrypt para proteção de senhas
+- Spring Security
+- Autenticação com JWT
+- Endpoints protegidos
+- Tratamento de exceções
+- Verificação de e-mail duplicado
+- Variáveis de ambiente para informações sensíveis
 
+➡️ [Ver projeto](https://github.com/ruancsv/auth-api-kotlin)
 
+---
+
+### 📦 Controle de Estoque
+
+Sistema desenvolvido em **C#** com operações CRUD, criado para praticar lógica de programação e conceitos de gerenciamento de dados.
+
+➡️ [Ver projeto](https://github.com/ruancsv/CONTROLE_ESTOQUE_RCS)
+
+---
+
+### 🧮 Calculadora Básica
+
+Aplicação desenvolvida em **C#** para prática dos fundamentos da linguagem e lógica de programação.
+
+➡️ [Ver projeto](https://github.com/ruancsv/calculadora_basica_rcs)
+
+---
+
+## 📚 Atualmente aprofundando conhecimentos em
+
+```text
+Kotlin
+   ↓
+Spring Boot
+   ↓
+APIs REST
+   ↓
+Spring Security / JWT
+   ↓
+SQL / PostgreSQL
+   ↓
+Testes
+   ↓
+Docker
