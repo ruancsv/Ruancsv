@@ -13,11 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
       - name: Gerar cards do perfil
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: ruancsv
           BRANCH_NAME: main
           UTC_OFFSET: -3
+          AUTO_PUSH: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
