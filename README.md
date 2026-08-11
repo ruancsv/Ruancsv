@@ -36,16 +36,18 @@ Atualmente venho aprofundando meus conhecimentos em **arquitetura de APIs, segur
 
 ---
 
+---
+
 ## 📊 Linguagens mais utilizadas
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruancsv&layout=compact&langs_count=8&theme=transparent"
-    alt="Linguagens mais utilizadas nos repositórios do GitHub"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ruancsv&layout=compact&langs_count=8&locale=pt-br"
+    alt="Linguagens mais utilizadas"
   />
 </p>
 
-> O gráfico é gerado automaticamente com base nas linguagens detectadas nos repositórios públicos e não representa nível de domínio ou proficiência.
+> As estatísticas são baseadas no código presente nos repositórios públicos e não representam nível de proficiência.
 
 ---
 
