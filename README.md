@@ -1,4 +1,4 @@
-"""# Olá, eu sou o Ruan 👋
+# Olá, eu sou o Ruan 👋
 
 ### 👨‍💻 Software Development Intern | Backend | Kotlin • Java • Spring Boot • SQL
 
@@ -137,4 +137,4 @@ Atualmente desenvolvendo minha experiência profissional na área de software e 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-carmo-silva/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruancsv)
-"""
+
