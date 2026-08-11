@@ -41,10 +41,11 @@ Atualmente venho aprofundando meus conhecimentos em **arquitetura de APIs, segur
 ## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img src="./images/languages.svg" alt="Linguagens mais utilizadas" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens com mais commits" />
 </p>
 
-> As estatísticas são baseadas no código presente nos meus repositórios públicos e não representam nível de proficiência.
+> As estatísticas são geradas automaticamente com base nos meus repositórios públicos.
 
 ---
 
