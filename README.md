@@ -1,14 +1,16 @@
-# Olá, eu sou o Ruan 👋
+from pathlib import Path
+
+readme = r'''# Olá, eu sou o Ruan 👋
 
 ### 👨‍💻 Software Development Intern | Backend | Kotlin • Java • Spring Boot • SQL
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente atuo como **Estagiário de Desenvolvimento de Software na Kaffa Tech**.
 
-Meu foco está no desenvolvimento backend, construção de APIs REST e aprofundamento em tecnologias como **Kotlin, Java, Spring Boot, SQL e PostgreSQL**.
+Meu foco é **desenvolvimento backend**, principalmente com **Kotlin, Java, Spring Boot, APIs REST, SQL e PostgreSQL**.
 
-Antes de entrar diretamente na área de desenvolvimento, tive experiência com suporte técnico, infraestrutura e processos relacionados a ativos de TI. Essa trajetória contribuiu para desenvolver uma visão prática de tecnologia, resolução de problemas e ambientes corporativos.
+Também possuo experiência anterior com suporte técnico, infraestrutura e processos relacionados a ativos de TI, o que contribuiu para desenvolver uma visão prática de tecnologia, resolução de problemas e ambientes corporativos.
 
-Atualmente busco evoluir principalmente em **backend, arquitetura de APIs, segurança, bancos de dados e boas práticas de desenvolvimento de software**.
+Atualmente venho aprofundando meus conhecimentos em **arquitetura de APIs, segurança, bancos de dados, testes e boas práticas de desenvolvimento de software**.
 
 ---
 
@@ -36,6 +38,19 @@ Atualmente busco evoluir principalmente em **backend, arquitetura de APIs, segur
 
 ---
 
+## 📊 Linguagens mais utilizadas
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruancsv&layout=compact&langs_count=8&theme=transparent"
+    alt="Linguagens mais utilizadas nos repositórios do GitHub"
+  />
+</p>
+
+> O gráfico é gerado automaticamente com base nas linguagens detectadas nos repositórios públicos e não representa nível de domínio ou proficiência.
+
+---
+
 ## 📌 Projetos em destaque
 
 ### 🔐 Auth API Kotlin
@@ -47,8 +62,8 @@ Principais recursos implementados:
 - Cadastro de usuários
 - Login com e-mail e senha
 - BCrypt para proteção de senhas
-- Spring Security
 - Autenticação com JWT
+- Spring Security
 - Endpoints protegidos
 - Tratamento de exceções
 - Verificação de e-mail duplicado
@@ -76,17 +91,56 @@ Aplicação desenvolvida em **C#** para prática dos fundamentos da linguagem e 
 
 ## 📚 Atualmente aprofundando conhecimentos em
 
-```text
-Kotlin
-   ↓
-Spring Boot
-   ↓
-APIs REST
-   ↓
-Spring Security / JWT
-   ↓
-SQL / PostgreSQL
-   ↓
-Testes
-   ↓
-Docker
+- Kotlin
+- Spring Boot
+- APIs REST
+- Spring Security e JWT
+- SQL e PostgreSQL
+- Testes automatizados
+- Docker
+- Boas práticas de desenvolvimento backend
+
+---
+
+## 🎯 Objetivo profissional
+
+Continuar evoluindo como **desenvolvedor backend**, construindo uma base sólida em:
+
+- Kotlin e Java
+- Spring Boot
+- APIs REST
+- Orientação a Objetos
+- SQL e bancos de dados relacionais
+- Segurança de aplicações
+- Testes automatizados
+- Git e GitHub
+- Docker e deploy de aplicações
+
+Busco aplicar esses conhecimentos em projetos cada vez mais próximos de cenários reais de desenvolvimento de software.
+
+---
+
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas**  
+Universidade Anhembi Morumbi
+
+---
+
+## 💼 Experiência atual
+
+**Estagiário de Desenvolvimento de Software — Kaffa Tech**
+
+Atualmente desenvolvendo minha experiência profissional na área de software e aprofundando conhecimentos em tecnologias e práticas utilizadas no desenvolvimento de sistemas.
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-carmo-silva/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruancsv)
+'''
+
+path = Path('/mnt/data/README_perfil_github_ruancsv.md')
+path.write_text(readme, encoding='utf-8')
+print(path)
