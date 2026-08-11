@@ -1,4 +1,4 @@
-# Olá, eu sou o Ruan 👋
+# Olá, eu sou o Ruan Carmo 👋
 
 ### 👨‍💻 Software Development Intern | Backend | Kotlin • Java • Spring Boot • SQL
 
